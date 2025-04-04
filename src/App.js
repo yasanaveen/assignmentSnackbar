@@ -10,7 +10,7 @@ function App() {
       <SnackbarProvider>
       <Dogs/>
       </SnackbarProvider>
-      {/* <Fetch/> */}
+      
      
     </div>
   );
